@@ -15,7 +15,7 @@ This is a test of the code snippets grammar capability with PHP, Git Attributes,
 ```
 
 ``` git attributes
-$ git commit -m "Commit then go!" 
+$ git push origin master 
 ```
 
 ``` git config
