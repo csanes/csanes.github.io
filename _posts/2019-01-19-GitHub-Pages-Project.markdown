@@ -11,11 +11,7 @@ There's a great book online that got this effort jumpstarted: [Pro Git][pro-git-
 Jekyll also offers powerful support for code snippets:
 
 ``` git
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+$ git init
 ```
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
