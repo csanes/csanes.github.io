@@ -8,16 +8,19 @@ Time to take a break and reflect on the progress. I found out about GitHub Pages
 
 There's a great book online that got this effort jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git in whatever working evironment you can think of. Chapters include Git basics, branching, distributed workflows, GitHub, and much more. 
 
-This is a test of the code snippets grammar capability with PHP, Git Attributes, and Git Config:
+This is a test of the code snippets grammar capability with PHP, Javascript, and HTML:
 
+## PHP
 ``` php
 <?php echo "Hello World!";?> 
 ```
 
+## Javascript
 ``` javascript
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button> 
 ```
 
+## HTML
 ``` html
 <ul class="list-style-none mb-0  border-top pt-3">
 ```
