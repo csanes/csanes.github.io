@@ -10,17 +10,17 @@ There's a great book online that got this effort jumpstarted: [Pro Git][pro-git-
 
 This is a test of the code snippets grammar capability with PHP, Javascript, and HTML:
 
-## PHP
+### PHP
 ``` php
 <?php echo "Hello World!";?> 
 ```
 
-## Javascript
+### Javascript
 ``` javascript
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button> 
 ```
 
-## HTML
+### HTML
 ``` html
 <ul class="list-style-none mb-0  border-top pt-3">
 ```
