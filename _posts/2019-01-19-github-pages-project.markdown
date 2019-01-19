@@ -14,12 +14,12 @@ This is a test of the code snippets grammar capability with PHP, Git Attributes,
 <?php echo "Hello World!";?> 
 ```
 
-``` git attributes
-$ git push origin master 
+``` javascript
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button> 
 ```
 
-``` git config
-$ git config --global user.email:john@doe.com 
+``` html
+<ul class="list-style-none mb-0  border-top pt-3">
 ```
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
