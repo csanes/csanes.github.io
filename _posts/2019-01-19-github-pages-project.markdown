@@ -8,10 +8,18 @@ Time to take a break and reflect on the progress. I found out about GitHub Pages
 
 There's a great book online that got this effort jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git in whatever working evironment you can think of. Chapters include Git basics, branching, distributed workflows, GitHub, and much more. 
 
-Jekyll also offers powerful support for code snippets:
+This is a test of the code snippets grammar capability with PHP, Git Attributes, and Git Config:
 
 ``` php
 <?php echo "Hello World!";?> 
+```
+
+``` git attributes
+$ git commit -m "Commit then go!" 
+```
+
+``` git config
+$ git config --global user.email:john@doe.com 
 ```
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
