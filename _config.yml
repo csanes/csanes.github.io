@@ -1,6 +1,6 @@
 # Site settings
-title: Carlos' GitHub User Page
-description: 'Project page for web portfolio'
+title: Carlos' GitHub Page
+description: 'Web development portfolio'
 url: 'https://csanes.github.io'
 baseurl: '/'
 
