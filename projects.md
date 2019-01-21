@@ -3,6 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
+# Projects
 
 The latest and greatest projects I'm working on:
 
