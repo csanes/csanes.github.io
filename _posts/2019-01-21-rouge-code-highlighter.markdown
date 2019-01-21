@@ -1,5 +1,5 @@
 ---
-title:  "Rouge Code Snippet Highlighter"
+title:  "Rouge Code Highlighter"
 date:   2019-01-19 15:34:11
 categories: [rouge]
 tags: [rouge]
