@@ -9,6 +9,7 @@ Time to take a break and reflect on the progress. I found out about GitHub Pages
 There's a great book online that got the learning jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git. Chapters include Git basics, branching, distributed workflows, GitHub, and much more. I spent a few hours reading and experimenting with the commands and examples that are included.
 
 Creating a [GitHub][github-home] account was pretty straightforward. After that I wanted to have a command-line interface to use git commands (push pull, commit, etc.) so I downloaded [Git for Windows][git-for-windows]. It included a GUI, Bash, & CMD. Some configuration was required but the documentation was readily available and thorough.
+
 ![alt text][git-bash]
 
 
