@@ -1,8 +1,8 @@
 ---
 title:  "GitHub Pages Project"
 date:   2019-01-19 00:31:10
-categories: [Jekyll]
-tags: [Jekyll]
+categories: [GitHub]
+tags: [GitHub]
 ---
 Time to take a break and reflect on the progress. I found out about GitHub Pages and decided to create a web portfolio site on the platform. Naturally I had no idea how to use Git, GitHub, Git Bash, or Jekyll. A crash course was in order.
 
