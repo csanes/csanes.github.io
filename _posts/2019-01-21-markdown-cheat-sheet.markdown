@@ -17,12 +17,12 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 ### Header 3
 
 #### Header 4  
-  
+
 A link to [GitHub](http://github.com/). A literal link <http://github.com/csanes/csanes.github.io/>
 
 An image, located within /images
 
-![Git Bash Example]({{ site.baseurl }}/images/git-bash-ss.jpg)
+![Git Bash Example]({{ site.baseurl }}/images/git-bash-ss.jpg "Git Bash Example")
 
 
 * A bulletted list
