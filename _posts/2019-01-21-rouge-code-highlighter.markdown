@@ -1,14 +1,14 @@
 ---
 title:  "Rouge Code Highlighter"
 date:   2019-01-19 15:34:11
-categories: [rouge]
-tags: [rouge]
----  
+categories: [Rouge]
+tags: [Rouge]
+---
 
-This is a test of the Rouge code snippet highlighter with PHP, Javascript, and HTML:
+Jekyll uses Rouge, a code snippet highlighter, to make code look nice. This is a test with PHP, Javascript, and HTML:
 
 #### PHP
-``` php
+ ```php
 <?php echo "Hello World!";?>
 ```
 

@@ -4,8 +4,11 @@ date:   2019-01-19 00:31:10
 categories: [jekyll]
 tags: [jekyll]
 ---
-Time to take a break and reflect on the progress. I found out about GitHub Pages and decided to create a web portfolio site on the platform. Naturally I had no idea how to use Git, GitHub, Git Bash, or Jekyll. What's that phrase about biting off more than you can chew?
+Time to take a break and reflect on the progress. I found out about GitHub Pages and decided to create a web portfolio site on the platform. Naturally I had no idea how to use Git, GitHub, Git Bash, or Jekyll. A crash course was in order.
 
-There's a great book online that got this effort jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git in whatever working evironment you can think of. Chapters include Git basics, branching, distributed workflows, GitHub, and much more.
+There's a great book online that got the learning jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git. Chapters include Git basics, branching, distributed workflows, GitHub, and much more. I spent a few hours reading and experimenting with the commands and examples that are included.
+
+Creating a [GitHub][github-home] account was pretty straightforward.
 
 [pro-git-book]: https://git-scm.com/book/en/v2
+[github-home]: https://github.com
