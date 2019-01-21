@@ -22,7 +22,7 @@ A link to [GitHub](http://github.com/). A literal link <http://github.com/csanes
 
 An image, located within /images
 
-![an image alt text]({{ site.baseurl }}/images/git-bash-ss.jpg "Git Bash Example")
+![Git Bash Example]({{ site.baseurl }}/images/git-bash-ss.jpg)
 
 
 * A bulletted list
