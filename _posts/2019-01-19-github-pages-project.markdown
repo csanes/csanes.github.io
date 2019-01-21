@@ -10,7 +10,7 @@ There's a great book online that got the learning jumpstarted: [Pro Git][pro-git
 
 ![alt text][pro-git]
 
-Creating a [GitHub][github-home] account was pretty straightforward. After that I wanted to have a command-line interface to use git commands (push pull, commit, etc.) so I downloaded [Git for Windows][git-for-windows]. It included a GUI, Bash, & CMD. Some configuration was required but the documentation was readily available and thorough.
+Creating a [GitHub][github-home] account was pretty straightforward. After that I wanted to have a command-line interface to use git commands (push pull, commit, etc.) so I downloaded [Git for Windows][git-for-windows]. It included a GUI, Bash, & CMD. Some configuration was required but the documentation was thorough.
 
 ![alt text][git-bash]
 
