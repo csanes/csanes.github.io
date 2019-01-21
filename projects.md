@@ -6,7 +6,7 @@ permalink: /projects/
 
 The latest and greatest projects I'm working on:
 
-http://www.katlynslough.com/
+#### <http://www.katlynslough.com/>
 
 ![Katlynslough.com]({{ site.baseurl }}/images/kat-slough-site.jpg "Katlynslough.com")
 
