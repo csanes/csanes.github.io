@@ -4,11 +4,10 @@ date:   2019-01-19 15:34:11
 categories: [Rouge]
 tags: [Rouge]
 ---
-
 Jekyll uses Rouge, a code snippet highlighter, to make code look nice. This is a test with PHP, Javascript, and HTML:
 
-#### PHP
- ```php
+#### PHP  
+``` php
 <?php echo "Hello World!";?>
 ```
 
