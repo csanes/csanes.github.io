@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Projects
 
-The latest and greatest projects I'm working on:
+The latest projects on the docket:
 
 #### <http://www.katlynslough.com/>
 
