@@ -14,4 +14,7 @@ The latest projects on the docket:
 * Project Specs:  
 -Wordpress CMS  
 -Dreamhost hosting provider  
--VersionPress version control Git-based plugin  
+-[VersionPress][version-press] Git-based VC plugin  
+-Visual Composer layout/content editor
+
+[version-press]: https://versionpress.com/open-source/
