@@ -11,7 +11,7 @@ The latest projects on the docket:
 
 ![Katlynslough.com]({{ site.baseurl }}/images/kat-slough-site.jpg "Katlynslough.com")
 
-* Projects Specifications:  
+* Project Specs:  
 -Wordpress CMS  
 -Dreamhost hosting provider  
 -VersionPress version control Git-based plugin  
