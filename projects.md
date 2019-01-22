@@ -11,7 +11,7 @@ The latest and greatest projects I'm working on:
 
 ![Katlynslough.com]({{ site.baseurl }}/images/kat-slough-site.jpg "Katlynslough.com")
 
-* Projects Specifications:
--Wordpress CMS
--Dreamhost hosting provider
--VersionPress version control Git-based plugin
+* Projects Specifications:  
+-Wordpress CMS  
+-Dreamhost hosting provider  
+-VersionPress version control Git-based plugin  
