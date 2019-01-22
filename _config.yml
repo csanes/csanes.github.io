@@ -1,6 +1,6 @@
 # Site settings
 title: Carlos' GitHome
-description: 'Web development portfolio + blog'
+description: 'Web dev portfolio + blog'
 url: 'https://csanes.github.io'
 baseurl: '/'
 
