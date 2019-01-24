@@ -4,7 +4,7 @@ date:   2019-01-19 00:31:10
 categories: [GitHub]
 tags: [GitHub]
 ---
-Time to take a break and reflect. I found out about GitHub Pages and decided to create a web portfolio site on the platform. Naturally I had no idea how to use Git, GitHub, Git Bash, or Jekyll. A crash course was in order.
+Time to take a break and reflect. I found out about GitHub Pages and decided to create a web portfolio site on the platform. I had no idea how to use Git, GitHub, Git Bash, or Jekyll. A crash course was in order.
 
 There's a great book online that got the learning jumpstarted: [Pro Git][pro-git-book]. This free book has everything you need to setup Git. Chapters include Git basics, branching, distributed workflows, GitHub, and much more. I spent a few hours reading and experimenting with the commands and examples that are included.
 
