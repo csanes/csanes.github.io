@@ -14,8 +14,12 @@ permalink: /about/
 
 ### Skills
 
-HTML, CSS, Markdown, Jekyll, Git, Linux/Unix Bash  
+HTML, CSS, Markdown, Jekyll, Git, Linux/Unix Bash, Cisco Routing & Switching, TCP/IP 
 
 ### Dev Platforms
 
 GitHub, Wordpress, Atom, Amazon Web Services  
+
+### Operating Systems
+
+Windows 7-10, Linux (Debian, Ubuntu, Amazon)
