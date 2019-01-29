@@ -14,7 +14,7 @@ permalink: /about/
 
 ### Skills
 
-HTML, CSS, Markdown, Jekyll, Git, Linux/Unix Bash, Cisco Routing & Switching, TCP/IP 
+HTML, CSS, Markdown, Jekyll, Git, Linux/Unix Bash, Cisco Routing & Switching, TCP/IP, Apache, MariaDB
 
 ### Dev Platforms
 
