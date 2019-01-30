@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Projects
 
-### <http://www.katlynslough.com/>
+### <http://www.katlynslough.com/>  
 
 ![Katlynslough.com]({{ site.baseurl }}/images/kat-slough-site.jpg "Katlynslough.com")
 
