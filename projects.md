@@ -5,9 +5,7 @@ permalink: /projects/
 ---
 # Projects
 
-The latest projects on the docket:
-
-<http://www.katlynslough.com/>
+### <http://www.katlynslough.com/>
 
 ![Katlynslough.com]({{ site.baseurl }}/images/kat-slough-site.jpg "Katlynslough.com")
 
